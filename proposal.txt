@@ -1,0 +1,7 @@
+Final Project Proposal
+Jean Guo
+11/9/2017
+
+For the final project, I will use different Python packages to examine model data. Due to a lack of long term PM2.5 records, uncertainties in emissions, and complexities with aerosol chemistry, we currently lack a full understanding of how strongly aerosols can be expected to respond from year to year due solely to internal variability, independent of changing emissions. As a first step to answer this question, I will compare the standard deviation, range, and mean for PM2.5 from the a 400-year CTRL run at year 2000 emissions levels to simulations for zero-out U.S. emissions of SO2 (“US_zSO2”), BC (“US_zBC”), OC (“US_zOC”), and SO2/BC/OC (“US_zAll”), 80% reduced China SO2 emissions (“CH_80SO2”), and the zero out India SO2 (“IN_zSO2”), black carbon (“IN_zBC”), and organic carbon (“IN_OC”) emissions. I will then examine the role of domestic emissions reductions on PM2.5¬ concentrations by looking at the difference between the CTRL simulation and the simulation where all anthropogenic aerosols in the US (“US_zAll”) are set to zero. Specifically, I will subtract the monthly mean value of PM2.5 in the CTRL from the US_zAll simulation. Since the emissions of U.S. SO2, BC, and OC are shut off in US_zAll while everything else is the same as in the CTRL, the variability in the resulting difference will allow me to determine how PM2.5 concentrations are affected by U.S. emissions without the confounding influence of meteorology. 
+
+ 
